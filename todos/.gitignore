@@ -16,4 +16,4 @@ yarn-debug.log*
 yarn-error.log*
 
 /node_modules
-todos/src/AppSync.js
+/src/AppSync.js
