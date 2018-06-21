@@ -11,3 +11,12 @@ query listTodos {
   } 
 } 
 `
+
+// query listTodos {
+//   listTodos(first:2){
+//     items{
+//       id
+//       name
+//     }
+//   }
+// }
